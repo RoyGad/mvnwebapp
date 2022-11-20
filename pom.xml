@@ -33,7 +33,7 @@
           <configuration>
               <server>maven-deployment-local</server>
               <url>http://localhost:8085/manager/text</url>
-              <path>/greeter</path>
+              <path>/mvnwebapp</path>
           </configuration>
       </plugin>
     </plugins>
