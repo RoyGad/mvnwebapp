@@ -1,0 +1,16 @@
+**/bin/
+.metadata
+.recommenders
+*.class
+org.eclipse*
+**/EOS.ear
+**/EOSEJB.jar
+**/EOSWeb.war
+**/build/
+**/ApplicationLogger.log
+**/ApplicationLogger.log.*
+# MVN
+**/target/
+.jsdtscope
+.project
+.project
